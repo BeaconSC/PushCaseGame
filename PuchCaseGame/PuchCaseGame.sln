@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuchCaseGame", "PuchCaseGame\PuchCaseGame.csproj", "{A403ECEA-EA61-4966-A633-253B77C8F08C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "delete", "delete", "{54643257-44E5-4254-99E2-AA9BC73FCB25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A403ECEA-EA61-4966-A633-253B77C8F08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A403ECEA-EA61-4966-A633-253B77C8F08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A403ECEA-EA61-4966-A633-253B77C8F08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A403ECEA-EA61-4966-A633-253B77C8F08C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB6402E-F0A5-45FD-BCB8-297B87E152C7}
+	EndGlobalSection
+EndGlobal
